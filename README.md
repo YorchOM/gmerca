@@ -18,4 +18,5 @@ Mantener el enfoque de posibles cambios a futuro mediante una tecnología abiert
 3. Gestión de Dones, talentos o servicios
 4. Localización fisica y/o pertenencia a una comunidad local/transversal
 5. Estadísticas de la comunidad [...]
-6. 
+6. Facilitar conversión de precios entre comunidades
+7. 
